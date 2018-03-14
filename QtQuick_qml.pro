@@ -14,4 +14,5 @@ QML_IMPORT_PATH =
 include(deployment.pri)
 
 DISTFILES += \
-    my_signal.qml
+    my_signal.qml \
+    handle_mouse.qml
