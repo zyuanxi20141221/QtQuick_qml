@@ -16,4 +16,6 @@ include(deployment.pri)
 DISTFILES += \
     my_signal.qml \
     handle_mouse.qml \
-    countdown.qml
+    countdown.qml \
+    ColorPicker.qml \
+    component_file.qml
