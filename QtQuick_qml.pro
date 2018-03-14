@@ -18,4 +18,6 @@ DISTFILES += \
     handle_mouse.qml \
     countdown.qml \
     ColorPicker.qml \
-    component_file.qml
+    component_file.qml \
+    row.qml \
+    colomun.qml
