@@ -20,4 +20,5 @@ DISTFILES += \
     ColorPicker.qml \
     component_file.qml \
     row.qml \
-    colomun.qml
+    colomun.qml \
+    grid.qml
