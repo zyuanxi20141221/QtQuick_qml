@@ -21,4 +21,5 @@ DISTFILES += \
     component_file.qml \
     row.qml \
     colomun.qml \
+    my_signal.qml \
     grid.qml

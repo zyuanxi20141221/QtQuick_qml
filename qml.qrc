@@ -2,5 +2,20 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>MainForm.ui.qml</file>
+        <file>row.qml</file>
+        <file>colomun.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>component_file.qml</file>
+        <file>countdown.qml</file>
+        <file>deployment.pri</file>
+        <file>handle_mouse.qml</file>
+        <file>grid.qml</file>
+        <file>propertyanimation_standalone.qml</file>
+        <file>my_signal.qml</file>
+        <file>propertyanimation_signalhandle.qml</file>
+        <file>propertyanimation_onproperty.qml</file>
+        <file>square_to_circle.qml</file>
+        <file>red_to_green.qml</file>
+        <file>phone_list_simple.qml</file>
     </qresource>
 </RCC>

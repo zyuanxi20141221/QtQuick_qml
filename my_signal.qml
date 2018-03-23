@@ -71,5 +71,4 @@ Rectangle {
             coloredText.color = clr;
         }
     }
-
 }
